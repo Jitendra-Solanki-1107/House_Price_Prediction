@@ -1,4 +1,4 @@
-# House_Price_Prediction-
+# House_Price_Prediction with boston Dataset
 
 Predicting house prices using Linear Regression and Gradient Boosting Regressor
 
